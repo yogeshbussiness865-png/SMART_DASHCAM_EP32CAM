@@ -9,8 +9,8 @@ WebSocketsServer webSocket = WebSocketsServer(8888);
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Yogesh's A14";
-const char *password = "12345678909";
+const char *ssid = "JATT_MAJHAIL_4G";
+const char *password = "drub@123";
 
 bool isClientConnected;
 
